@@ -1,24 +1,11 @@
 using System;
 namespace AULA14PROJETOUBER
 {
-    public class Usuario : Corrida
+    public class Usuario : Passageiro
     {
  // Propriedade resumida
         public string Nome { get; set; }
 
-        // Propriedade completa
-        private int idade = 0;
-        public int Idade
-        {
-            get { return idade; }
-            set { 
-                if(idade > 0){
-                    idade = value;
-                }  
-            }
-        }
-
-        public string Foto { get; set; }
         private string loginAdm = "vinicius@adm.com";
         private string senhaAdm = "123";
         private string loginPass = "vinicius@gmail.com";

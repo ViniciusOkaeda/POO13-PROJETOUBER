@@ -2,7 +2,7 @@ using System;
 using System.Threading;
 namespace AULA14PROJETOUBER
 {
-    public class Passageiro : Usuario 
+    public class Passageiro : Corrida
     {
       public string SolicitarMotorista(){
             return "Procurando motorista...";

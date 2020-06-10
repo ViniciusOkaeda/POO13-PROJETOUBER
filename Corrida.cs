@@ -8,6 +8,9 @@ namespace AULA14PROJETOUBER
         }
         public string LocalInicio = "Onde o Sol não bate";
         public string LocalChegada = "Casa da mãe Joana";
+        public string corrida(){
+            return "Corrida Cancelada";
+        }
 
 
     }
