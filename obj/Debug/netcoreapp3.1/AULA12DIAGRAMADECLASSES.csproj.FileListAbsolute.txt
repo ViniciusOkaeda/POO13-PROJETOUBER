@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\obj\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\obj\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\obj\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\obj\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\bin\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.exe
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\bin\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.deps.json
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\bin\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\bin\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\bin\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.dll
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\bin\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.pdb
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\obj\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.dll
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\obj\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.pdb
+C:\Users\vinicius\Documents\AULA14PROJETOUBER\obj\Debug\netcoreapp3.1\AULA12DIAGRAMADECLASSES.genruntimeconfig.cache

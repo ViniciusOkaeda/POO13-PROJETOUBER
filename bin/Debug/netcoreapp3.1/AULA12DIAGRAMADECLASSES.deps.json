@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AULA12DIAGRAMADECLASSES/1.0.0": {
+        "runtime": {
+          "AULA12DIAGRAMADECLASSES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AULA12DIAGRAMADECLASSES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

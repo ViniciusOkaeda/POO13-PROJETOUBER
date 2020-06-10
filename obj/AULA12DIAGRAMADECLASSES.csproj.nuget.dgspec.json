@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius\\Documents\\AULA12DIAGRAMADECLASSES\\AULA12DIAGRAMADECLASSES.csproj": {}
+    "C:\\Users\\vinicius\\Documents\\AULA14PROJETOUBER\\AULA12DIAGRAMADECLASSES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius\\Documents\\AULA12DIAGRAMADECLASSES\\AULA12DIAGRAMADECLASSES.csproj": {
+    "C:\\Users\\vinicius\\Documents\\AULA14PROJETOUBER\\AULA12DIAGRAMADECLASSES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius\\Documents\\AULA12DIAGRAMADECLASSES\\AULA12DIAGRAMADECLASSES.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius\\Documents\\AULA14PROJETOUBER\\AULA12DIAGRAMADECLASSES.csproj",
         "projectName": "AULA12DIAGRAMADECLASSES",
-        "projectPath": "C:\\Users\\vinicius\\Documents\\AULA12DIAGRAMADECLASSES\\AULA12DIAGRAMADECLASSES.csproj",
+        "projectPath": "C:\\Users\\vinicius\\Documents\\AULA14PROJETOUBER\\AULA12DIAGRAMADECLASSES.csproj",
         "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius\\Documents\\AULA12DIAGRAMADECLASSES\\obj\\",
+        "outputPath": "C:\\Users\\vinicius\\Documents\\AULA14PROJETOUBER\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
